@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EpoxyPractice</string>
+    <string name="textview">TextView</string>
+    <string name="dummy_description">Dummy description</string>
+</resources>
